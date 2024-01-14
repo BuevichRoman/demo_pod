@@ -1,5 +1,6 @@
 hello
 word
-print 
-demo
-online
+
+brose
+clear
+centre
